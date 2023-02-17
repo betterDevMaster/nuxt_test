@@ -1,12 +1,12 @@
 # Next.js + Tailwind CSS + TypeScript Starter and Boilerplate
 
 <div align="center">
-  <h2>🔋 ts-nextjs-tailwind-starter</h2>
+  <h2>🔋 My-App</h2>
   <p>Next.js + Tailwind CSS + TypeScript starter packed with useful development features.</p>
   <p>Made by <a href="https://theodorusclarence.com">Theodorus Clarence</a></p>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/theodorusclarence/ts-nextjs-tailwind-starter)](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/stargazers)
-[![Depfu](https://badges.depfu.com/badges/fc6e730632ab9dacaf7df478a08684a7/overview.svg)](https://depfu.com/github/theodorusclarence/ts-nextjs-tailwind-starter?project_id=30160)
+[![GitHub Repo stars](https://img.shields.io/github/stars/theodorusclarence/My-App)](https://github.com/theodorusclarence/My-App/stargazers)
+[![Depfu](https://badges.depfu.com/badges/fc6e730632ab9dacaf7df478a08684a7/overview.svg)](https://depfu.com/github/theodorusclarence/My-App?project_id=30160)
 [![Last Update](https://img.shields.io/badge/deps%20update-every%20sunday-blue.svg)](https://shields.io/)
 
 </div>
@@ -33,7 +33,7 @@ This repository is 🔋 battery packed with:
 - 🗺 Site Map — Automatically generate sitemap.xml
 - 📦 Expansion Pack — Easily install common libraries, additional components, and configs
 
-See the 👉 [feature details and changelog](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/blob/main/CHANGELOG.md) 👈 for more.
+See the 👉 [feature details and changelog](https://github.com/theodorusclarence/My-App/blob/main/CHANGELOG.md) 👈 for more.
 
 You can also check all of the **details and demos** on my blog post:
 
@@ -54,18 +54,18 @@ You can also check all of the **details and demos** on my blog post:
 2. Using `create-next-app`
 
    ```bash
-   npx create-next-app -e https://github.com/theodorusclarence/ts-nextjs-tailwind-starter project-name
+   npx create-next-app -e https://github.com/theodorusclarence/My-App project-name
    ```
 
 3. Using `degit`
 
    ```bash
-   npx degit theodorusclarence/ts-nextjs-tailwind-starter YOUR_APP_NAME
+   npx degit theodorusclarence/My-App YOUR_APP_NAME
    ```
 
 4. Deploy to Vercel
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2Fts-nextjs-tailwind-starter)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2FMy-App)
 
 ### 2. Install dependencies
 
@@ -97,7 +97,7 @@ Don't forget to change the package name in package.json
 
 This starter is using [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/), it is mandatory to use it to commit changes.
 
-## Projects using ts-nextjs-tailwind-starter
+## Projects using My-App
 
 <!--
 TEMPLATE
@@ -108,7 +108,7 @@ TEMPLATE
 - [theodorusclarence.com](https://theodorusclarence.com) ([Source](https://github.com/theodorusclarence/theodorusclarence.com))
 - [Notiolink](https://notiolink.thcl.dev/) ([Source](https://github.com/theodorusclarence/notiolink))
 
-Are you using this starter? Please add your page (and repo) to the end of the list via a [Pull Request](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/edit/main/README.md). 😃
+Are you using this starter? Please add your page (and repo) to the end of the list via a [Pull Request](https://github.com/theodorusclarence/My-App/edit/main/README.md). 😃
 
 ## Expansion Pack 📦
 

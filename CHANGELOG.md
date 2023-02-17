@@ -1,6 +1,6 @@
 <!-- //!STARTERCONF Remove this file, this is used as the starter changelog -->
 
-# ts-nextjs-tailwind-starter changelog
+# My-App changelog
 
 This changelog is manually generated and not accurate with the package.json, only to show the changes since the last release.
 
@@ -10,7 +10,7 @@ This changelog is manually generated and not accurate with the package.json, onl
 
 - #### Release Please
 
-    Standard Version is now deprecated, and ts-nextjs-tailwind-starter is now using release please. Activate them on `.github/workflows/release-please`
+    Standard Version is now deprecated, and My-App is now using release please. Activate them on `.github/workflows/release-please`
 
 ### Improvements & Bug Fixes
 
@@ -45,7 +45,7 @@ This changelog is manually generated and not accurate with the package.json, onl
 
 - #### Tailwind CSS Prettier Sorter
 
-    ts-nextjs-tailwind-starter now use first-party plugin `prettier-plugin-tailwindcss`
+    My-App now use first-party plugin `prettier-plugin-tailwindcss`
 
 ### Improvements & Bug Fixes
 
@@ -201,7 +201,7 @@ This changelog is manually generated and not accurate with the package.json, onl
 
 - #### Custom Tailwind CSS Class Sorter
 
-    Classes are sorted using [prettier-plugin-sort-class-names](https://github.com/PutziSan/prettier-plugin-sort-class-names) with custom class order on [this file](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/blob/main/prettier-plugin-sort-class-names-order) and custom variant order on [prettierrc](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/blob/main/.prettierrc.js)
+    Classes are sorted using [prettier-plugin-sort-class-names](https://github.com/PutziSan/prettier-plugin-sort-class-names) with custom class order on [this file](https://github.com/theodorusclarence/My-App/blob/main/prettier-plugin-sort-class-names-order) and custom variant order on [prettierrc](https://github.com/theodorusclarence/My-App/blob/main/.prettierrc.js)
 
     With this plugin, we can now safely check the order of the classes using the preconfigured lint action.
 
